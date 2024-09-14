@@ -32,7 +32,7 @@
       "url": "campaigns/TFA.json",
       "replace": "z9lz04",
       "boxsize": "big",
-      "boxart": "http://cloud-3.steamusercontent.com/ugc/762723517669830426/AAB750A408E887633F25AFDFB194C50A9A1518DF/",
+      "boxart": "https://steamusercontent-a.akamaihd.net/ugc/762723517669830426/AAB750A408E887633F25AFDFB194C50A9A1518DF/",
       "author": "Fantasy Flight Games",
       "description": "유명한 고고학자 알레한드로 벨라가 고대 아즈텍 도시의 유적을 발견했을 때, 시간의 구조 자체를 풀 수 있는 음모가 시작되었습니다..."
     },
@@ -131,7 +131,7 @@
       "url": "campaigns/R_TFA.json",
       "replace": "z9lz12",
       "boxsize": "wide",
-      "boxart": "http://cloud-3.steamusercontent.com/ugc/1474319121423613924/490D56D20C6AE0547D67D942513396E8D0584A4A/",
+      "boxart": "https://steamusercontent-a.akamaihd.net/ugc/1474319121423613924/490D56D20C6AE0547D67D942513396E8D0584A4A/",
       "author": "Fantasy Flight Games",
       "description": "유명한 고고학자 알레한드로 벨라가 고대 아즈텍 도시의 유적을 발견했을 때, 시간의 구조 자체를 풀 수 있는 음모가 시작되었습니다..."
     },
