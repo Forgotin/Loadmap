@@ -179,6 +179,15 @@
       "boxart": "https://steamusercontent-a.akamaihd.net/ugc/1478823218929917964/80063921C2355FE26816A0E40F88D31F9EF5C4A6/",
       "author": "Axolotl",
       "description": "이상한 나라의 앨리스는 루이스 캐럴의 이상한 나라의 앨리스와 거울나라의 모험을 각색한 8부작 캠페인입니다."
+    },
+    {
+      "name": "Fan Campaign: 거석의 근간",
+      "url": "fancreations/campaign_CF.json",
+      "replace": "z9lz21",
+      "boxsize": "small",
+      "boxart": "https://steamusercontent-a.akamaihd.net/ugc/1746813422552975974/8FB3A4AF2D5A102720F630961A2270572ABA2317/",
+      "author": "TheBeard",
+      "description": "The archetypal campaign, with the archetypal Lovecraftian threat. The campaign masterfully uses its unique mechanic pervasively."
     }
   ],
   "scenarios": [
